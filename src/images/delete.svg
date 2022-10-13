@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17576" data-name="Rectangle 17576" width="22" height="22" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="delete" clip-path="url(#clip-path)">
+    <g id="_1814090_delete_garbage_trash_icon_2_" data-name="1814090_delete_garbage_trash_icon (2)" transform="translate(2.044 0)">
+      <g id="Icon-Trash">
+        <path id="Fill-6" d="M-95.3-94.2h1.378v11.023H-95.3Z" transform="translate(100.814 101.044)" fill="red"/>
+        <path id="Fill-7" d="M-92.547-94.2h1.378v11.023h-1.378Z" transform="translate(100.814 101.044)" fill="red"/>
+        <path id="Fill-8" d="M-89.791-94.2h1.378v11.023h-1.378Z" transform="translate(100.814 101.044)" fill="red"/>
+        <path id="Fill-9" d="M-100.814-98.334H-82.9v1.378h-17.912Z" transform="translate(100.814 101.044)" fill="red"/>
+        <path id="Fill-10" d="M-88.459-97.645h-1.286v-1.378a.725.725,0,0,0-.735-.735h-2.756a.725.725,0,0,0-.735.735v1.378h-1.286v-1.378a2.039,2.039,0,0,1,2.021-2.021h2.756a2.039,2.039,0,0,1,2.021,2.021v1.378" transform="translate(100.814 101.044)" fill="red"/>
+        <path id="Fill-11" d="M-87.724-79.044h-8.267a2.23,2.23,0,0,1-2.159-2.021L-99.436-97.6l1.378-.092,1.286,16.534a.832.832,0,0,0,.781.735h8.267a.8.8,0,0,0,.781-.735l1.286-16.534,1.378.092-1.286,16.534a2.193,2.193,0,0,1-2.159,2.021" transform="translate(100.814 101.044)" fill="red"/>
+      </g>
+    </g>
+  </g>
+</svg>

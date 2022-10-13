@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17628" data-name="Rectangle 17628" width="32" height="32" transform="translate(0.25 0.25)" fill="#fc8666"/>
+    </clipPath>
+  </defs>
+  <g id="Fire_icon" data-name="Fire icon" transform="translate(16049 -127)">
+    <rect id="Rectangle_17629" data-name="Rectangle 17629" width="40" height="40" transform="translate(-16049 127)" fill="none"/>
+    <g id="Mask_Group_177" data-name="Mask Group 177" transform="translate(-16045.25 130.75)" clip-path="url(#clip-path)">
+      <g id="Treding_icon" data-name="Treding icon" transform="translate(3.878 0)">
+        <rect id="Rectangle_2875" data-name="Rectangle 2875" width="11.524" height="16.248" transform="translate(6.349 16.249)" fill="none"/>
+        <path id="Trendingf_Icon" data-name="Trendingf Icon" d="M24.7,37H23.354c.923-4.333,1.081-11.4-5.614-16.25,0,0,.106,3.657-3.566,7.442-1.568,1.616-2.218,5.248-.87,8.811h-.977C1.217,29.877,7.515,20.35,11.071,16.875c4.715-4.613,4.715-12.37,4.715-12.37a24.1,24.1,0,0,1,11.008,19.91c2.727-1.265,2.727-5.024,2.727-5.024C34.135,30.292,24.7,37,24.7,37Z" transform="translate(-6.048 -4.506)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

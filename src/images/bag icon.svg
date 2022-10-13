@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17628" data-name="Rectangle 17628" width="34" height="34" transform="translate(-1 -2)" fill="#fc8666"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_6343" data-name="Rectangle 6343" width="23.725" height="31.951" fill="#fff" stroke="#fff" stroke-width="0.325"/>
+    </clipPath>
+  </defs>
+  <g id="bag_icon" data-name="bag icon" transform="translate(16049 -127)">
+    <rect id="Rectangle_17629" data-name="Rectangle 17629" width="40" height="40" transform="translate(-16049 127)" fill="none"/>
+    <g id="Mask_Group_178" data-name="Mask Group 178" transform="translate(-16045 131)" clip-path="url(#clip-path)">
+      <g id="Group_15259" data-name="Group 15259" transform="translate(-0.648 -0.467)">
+        <g id="Group_15261" data-name="Group 15261" transform="translate(14.059 21.896)">
+          <path id="Path_10751" data-name="Path 10751" d="M11.712,7.99a2.288,2.288,0,0,1-.6-.228,3.316,3.316,0,0,0-1.03-.329,3.274,3.274,0,0,0-1.03.329c-.61.277-.7.293-.634.092A2.1,2.1,0,0,0,7.88,5.425c-.518-.531-.5-.556.412-.686A1.686,1.686,0,0,0,9.72,3.669a1.916,1.916,0,0,1,.369-.6,1.976,1.976,0,0,1,.369.6,1.68,1.68,0,0,0,1.428,1.07c.911.13.921.155.412.686a2.1,2.1,0,0,0-.542,2.429c.027.09.027.136-.038.136" transform="translate(-7.536 -3.073)" fill="#fff"/>
+        </g>
+        <line id="Line_255" data-name="Line 255" x2="9.643" transform="translate(12.402 16.64)" fill="#1a1818"/>
+        <g id="Group_15551" data-name="Group 15551" transform="translate(0)">
+          <g id="Group_15550" data-name="Group 15550" transform="translate(4.648)">
+            <g id="Group_15549" data-name="Group 15549">
+              <g id="Group_13866" data-name="Group 13866" clip-path="url(#clip-path-2)">
+                <path id="Path_10346" data-name="Path 10346" d="M1.355,20.531C2.85,10.5,2.814,10.838,3.23,10.222a2.882,2.882,0,0,1,1.135-.964,1.927,1.927,0,0,1,.789-.178l.684-.011h.2V5.834a5.832,5.832,0,0,1,11.665,0V9.067H17.9l.7.011a1.908,1.908,0,0,1,.777.175h.008a2.9,2.9,0,0,1,1.519,1.8c.049.165.723,4.35,1.489,9.5.915,6.121,1.233,8.122,1.326,8.875a1.811,1.811,0,0,1-.1.878,2.578,2.578,0,0,1-1.788,1.554c-.274.077-1.24.087-9.962.087-10.65,0-9.88.027-10.581-.337a2.9,2.9,0,0,1-1.07-1.054,2.477,2.477,0,0,1-.208-.616c-.055-.329.016-.539,1.341-9.412M16.8,5.834a4.929,4.929,0,0,0-9.858,0V9.056H16.8Z" transform="translate(-0.001 0)" fill="#fff" stroke="#fff" stroke-width="0.325"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

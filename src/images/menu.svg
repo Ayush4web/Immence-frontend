@@ -1,0 +1,15 @@
+<svg id="menu_Icon" data-name="menu Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17628" data-name="Rectangle 17628" width="32" height="32" transform="translate(0)" fill="#fc8666"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_17629" data-name="Rectangle 17629" width="40" height="40" transform="translate(0)" fill="none"/>
+  <g id="Mask_Group_182" data-name="Mask Group 182" transform="translate(4 4)" clip-path="url(#clip-path)">
+    <g id="Icon_feather-menu" data-name="Icon feather-menu" transform="translate(1.402 6.301)">
+      <path id="Path_10916" data-name="Path 10916" d="M33.3,15.6H3.9" transform="translate(-3.9 -5.801)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6"/>
+      <path id="Path_10917" data-name="Path 10917" d="M33.3,7.8H3.9" transform="translate(-3.9 -7.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6"/>
+      <path id="Path_10918" data-name="Path 10918" d="M33.3,23.4H3.9" transform="translate(-3.9 -3.802)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6"/>
+    </g>
+  </g>
+</svg>
