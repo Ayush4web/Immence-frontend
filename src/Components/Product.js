@@ -10,7 +10,7 @@ function Product() {
          'https://immence-production.up.railway.app/api/products'
        )
        setData(res[0])
-       console.log(data.descImg)
+       console.log(data)
     } catch (error) {
         console.log(error)
     }
@@ -25,7 +25,7 @@ function Product() {
     <div className="innerbox">
 
      <div className='sideimg'>
-      {data.descImg.map((d) => 
+      {data.descImg && data.descImg.map((d) => 
        <img src={d} alt='' />
       )}
         
